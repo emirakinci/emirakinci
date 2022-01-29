@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @emirakinci
+- 🌱 I’m currently learning C language
+- 📫 How to reach me emirakinci@yahoo.com
