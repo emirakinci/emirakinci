@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @emirakinci
 - 📚 I'm studying Computer Engineering at Politecnico Di Torino
 - 🌱 I’m currently learning C language
-- 📫 How to reach me emirakinci@yahoo.com
+- 📫 How to reach me akinciemir@hotmail.com
