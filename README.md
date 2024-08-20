@@ -5,10 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emirakinci" alt="emirakinci" /></a> </p>
 
+- 🌱 I’m currently learning **Java & Cyber Security**
+
 - 📫 How to reach me **akinciemir@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/emirakinci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emirakinci" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akinciemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akinciemir" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dark_lightsaber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dark_lightsaber" height="30" width="40" /></a>
 </p>
