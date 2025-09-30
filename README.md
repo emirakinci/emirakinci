@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emir Akinci</h1>
-<h3 align="center">A cyber security enthusiast | Undergraduate Computer Engineering student at Politecnico Di Torino</h3>
+<h3 align="center">A cyber security enthusiast | MSc Cyber Security Engineering student at Politecnico Di Torino | Computer Engineering graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirakinci&label=Profile%20views&color=0e75b6&style=flat" alt="emirakinci" /> </p>
 
