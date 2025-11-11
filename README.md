@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emirakinci" alt="emirakinci" /></a> </p>
 
-- 🌱 I’m currently learning **Java & Cyber Security**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 📫 How to reach me **akinciemir@outlook.com**
 
